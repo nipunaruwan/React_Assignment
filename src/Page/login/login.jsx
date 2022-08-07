@@ -9,7 +9,7 @@ const LoginForm = () => {
 <div id='icon_image'></div>
 <h3>Login</h3>
 </div>
-</div>
+
 
 <div id='boxform'>
   <input type="text" placeholder='Username'/>
@@ -22,10 +22,8 @@ const LoginForm = () => {
  <h5>Create new user account? <a href="/singup">click here</a></h5>
 </div>
 
-<div id=''></div>
-<h3>Login</h3>
 
-
+</div>
 
     </div>
   )
