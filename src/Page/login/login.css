@@ -33,6 +33,16 @@
     justify-content: space-evenly;
 
 }
+input{
+    width: 80%;
+    height: 40px;
+    border: none;
+    border-bottom: 1px solid;
+    resize: none;
+    outline: none;
+    border-radius: 10px;
+    font-size: 15px;
+}
 
 
 
