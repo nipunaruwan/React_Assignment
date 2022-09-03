@@ -1,5 +1,4 @@
 import * as React from 'react';
-
 import LoginForm from './Page/login/login';
 import { Route, Routes } from "react-router-dom";
 import NotFound from './Page/Session/NotFound';
